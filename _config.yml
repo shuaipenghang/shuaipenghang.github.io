@@ -20,7 +20,7 @@ repository               : shuaipenghang/shuaipenghang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/shuaipenghang_grad.png"
+  avatar           : "/images/shuaipenghang_grad.png"
   name             : "Penghang Shuai"
   pronouns         : "he/his" # example: "he/his"  
   bio              : "I want to be a robotics researcher"
