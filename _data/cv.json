@@ -1,27 +1,27 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Penghang Shuai",
+    "email": "shuaipenghang22@mails.ucas.ac.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://shuaipenghang.github.io/",
+    "summary": "Currently I am actively looking for phd opportunities. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Beijing",
+      "countryCode": "",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=mn90bj8AAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "http://orcid.org/0009-0004-3238-0092"
       },
       {
         "network": "GitHub",
@@ -33,36 +33,27 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Chinese Academy of Sciences",
+      "area": "M.S. in Electronic and Information Enginerring",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "startDate": "2022",
+      "endDate": "2025",
+      "gpa": "3.79",
+      "courses": [Robotics, Reinforcement Learning, Intelligent Control, Robot Mechanism]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Chengdu University of Technology",
+      "area": "B.S. in Electrical Engineering and Automation",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "startDate": "2018",
+      "endDate": "2022",
+      "gpa": 3.4,
+      "courses": [Principles of Automatic Control, Power Electronics Technology, Power System Analysis, Electromechanics]
     }
   ],
   "skills": [],
-  "languages": [],
-  "interests": [],
+  "languages": [Chinses, English],
+  "interests": [Robotics, Electric Sense, Bionic Robot],
   "references": [],
   "publications": [
     {
