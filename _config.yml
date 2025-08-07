@@ -24,20 +24,20 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "he/his"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "China"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "shuaipenghang22@mails.ucas.ac.cn" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=mn90bj8AAAAJ&hl=zh-CN"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0009-0004-3238-0092"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
