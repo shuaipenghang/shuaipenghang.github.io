@@ -20,17 +20,17 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "./shuaipenghang_grad.jpg"
   name             : "Penghang Shuai"
   pronouns         : "he/his" # example: "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I want to be a robotics researcher"
   location         : "China"
   # employer         : "Chinese Academy of Sciences, Institute of Automation"
   uri              : # URL
   email            : "shuaipenghang22@mails.ucas.ac.cn" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://ieeexplore.ieee.org/author/985860356745018"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=mn90bj8AAAAJ&hl=zh-CN"
   inspire-hep      : # URL
