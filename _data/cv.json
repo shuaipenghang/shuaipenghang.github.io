@@ -39,7 +39,7 @@
       "startDate": "2022",
       "endDate": "2025",
       "gpa": "3.79",
-      "courses": [Robotics, Reinforcement Learning, Intelligent Control, Robot Mechanism]
+      "courses": []
     },
     {
       "institution": "Chengdu University of Technology",
@@ -48,12 +48,12 @@
       "startDate": "2018",
       "endDate": "2022",
       "gpa": 3.4,
-      "courses": [Principles of Automatic Control, Power Electronics Technology, Power System Analysis, Electromechanics]
+      "courses": []
     }
   ],
   "skills": [],
-  "languages": [Chinses, English],
-  "interests": [Robotics, Electric Sense, Bionic Robot],
+  "languages": [English],
+  "interests": [],
   "references": [],
   "publications": [
     {
