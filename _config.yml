@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "Beijing-China"
-# site_theme               : "default"
+site_theme               : "default"
 title                    : "Penghang Shuai"
 name                     : &name "Penghang Shuai"
 description              : &description "personal description"
 url                      : https://shuaipenghang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-repository               : shuaipenghang/shuaipenghang.github.io"
+repository               : shuaipenghang/shuaipenghang.github.io
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,7 @@ author:
   pronouns         : "he/his" # example: "he/his"  
   bio              : "I want to be a robotics researcher"
   location         : "China"
-  # employer         : "Chinese Academy of Sciences, Institute of Automation"
+  employer         : "Chinese Academy of Sciences, Institute of Automation"
   uri              : # URL
   email            : "shuaipenghang22@mails.ucas.ac.cn" 
 
