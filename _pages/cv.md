@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in University of Chinese Academy of Sciences, 2025
-* B.S. in Chengdu University of Technology, 2022
+* M.S. in Artificial Intelligence, Chinese Academy of Sciences, Institute of Automation, 2025
+* B.S. in ectrical Engineering and Automation, Chengdu University of Technology, 2022
 
 Skills
 ======
