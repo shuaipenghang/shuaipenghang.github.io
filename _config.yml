@@ -23,9 +23,9 @@ author:
   avatar           : "../images/shuaipenghang_grad.png"
   name             : "Penghang Shuai"
   pronouns         : "he/his" # example: "he/his"  
-  bio              : "I want to be a robotics researcher"
+  bio              : "Passion and patience"
   location         : "China"
-  employer         : "Chinese Academy of Sciences, Institute of Automation"
+  employer         : "[Institute of Automation(CASIA)](http://english.ia.cas.cn/)"
   uri              : # URL
   email            : "shuaipenghang22@mails.ucas.ac.cn" 
 
@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/0009-0004-3238-0092"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  # github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
