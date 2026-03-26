@@ -18,7 +18,7 @@ I really hope to do good work in the field of robotics. My interests include rob
 ---
 <div style="max-height: 150px; overflow-y: auto; font-family: 'Times New Roman', Times, serif; font-size: 11.5pt;">
 <br>
-2025.12.25: &mbsp; A paper accepted by RAL.
+2025.12.25: &nbsp; A paper accepted by RAL.
 <br>
-2024.11.06: &mbsp; A paper accepted by TIM.
+2024.11.06: &nbsp; A paper accepted by TIM.
 </div>
